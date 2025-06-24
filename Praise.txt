@@ -1,16 +1,24 @@
-# WHAT IS GIT?
+WHAT IS GIT?
 GIT is a free and open source version control system. In other words GIT is a tool that is used to track the changes in our code over time.
 
-# WHAT IS GITHUB?
+WHAT IS GITHUB?
 GITHUB is a website where you host all your GIT Repository online(cloud). It helps and makes it easier for you to work in groups and woth other poeple and organize your project into a portfolio for youto show potential clients 
 
-#GIT COMMANDS 
+GIT COMMANDS 
 CLONE: This helps bring a Repository that is hosted somewhere like the github intoa folder on your local machine.
 ADD: This is used to track changes made in your code on git. 
 COMMIT: This is used to save your files in git.
 PUSH: Helps upload Git commits to remote remote despository like GITHUB.
 PULL: Download changes from remote repository(GITHUB) to your local machine. Thats the opposite of push. 
 STATUS: This shows all the files that were updated, created or deleted but haven't been saved in a commit yet.
+BRANCH: It lets you create isolated development environments within a single repository.
+CHECKOUT: This command can do two things; Switch between branches or restore files to a previous state.
+INIT:This command creates a new GIT Repositoryor reinitiates an existing one.
+
+WHATS IS SSHKEY?
+SSH (Secure Shell) is a way to connect securely to remote computers and services, like Git repositories.
+
+
 
 
 
