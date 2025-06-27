@@ -11,6 +11,7 @@ COMMIT: This is used to save your files in git.
 PUSH: Helps upload Git commits to remote remote despository like GITHUB.
 PULL: Download changes from remote repository(GITHUB) to your local machine. Thats the opposite of push. 
 STATUS: This shows all the files that were updated, created or deleted but haven't been saved in a commit yet.
+BRANCH and CHECKOUT 
 
 
 
