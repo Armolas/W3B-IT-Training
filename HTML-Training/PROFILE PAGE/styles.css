@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(109, 112, 113);
+}
+h4{
+    border-style: double;
+    border-width: 4px;
+    background-color: rgb(86, 96, 95);
+}
+
+#head-image{
+   border-style: double;
+   border-width: 4px;
+   float: left;
+}
+
+#my-header {
+    animation-name:red to black;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
+@keyframes red-to-black  {
+   10% {background: red;
+transform: translate(0px, 0px);}
+
+   50% {background: yellow;
+transform: translate(10px, 10px);}
+
+   100% {background:  black;
+transform: translate(20px, 20px);}
+} 
