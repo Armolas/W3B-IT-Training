@@ -1,0 +1,47 @@
+WHAT IS A COMPUTER?
+A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data. 
+
+WHAT IS AN OPERATING SYSTEM?
+An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs. It also allows you to communicate with the computer without knowing how to speak the computer's language. Without an operating system, a computer is useless.
+
+WHAT IS AN APPLICATION?
+An Application is a type of software that allows you to perform specific tasks.
+
+OPEN SOURCE VS CLOSE SOURCE
+- OPEN SOURCE; This is when the source code is publicly available to anyone who wants it, and programmers can read or change that code if they desire. 
+- CLOSED SOURCE;  A.K.A PROPRIETARY SOFTWARE  This is when the public is not given access to the source code, so they can’t see or modify it in any way.
+
+TAKING SCREENSHOTS?
+This is knowing how to take a picture of the screen—also known as a screenshot or screengrab. The Keyboard shortcut to take a screenshot on a Macbook is Shift+Command+3
+
+CREATING STRONG PASSWORDS?
+First of all A password is a string of characters used to verify the identity of a user during the authentication process. 
+The need for creating a strong password is that even though most websites are secure, there's always a small chance someone may try to access or steal your information. This is commonly known as hacking. A strong password is one of the best ways to defend your accounts and private information from hackers.
+
+DESCRIBE WHAT THE INTERNET IS
+The Internet is a global network connecting billions of computers and other electronic devices, enabling users to share information and communicate with each other.
+
+DESCRIBE WHAT PACKETS ARE AND HOW THEY ARE USED TO TRANSFER DATA
+Packets are small, formatted units of data that are used to transmit information across networks.
+Data packets are used to transfer data by breaking down large amounts of data into smaller, manageable units. Each packet contains a header with information about the data, such as the source and destination addresses, and the data itself. These packets are then sent across a network, and reassembled at the destination.
+
+DIFFERENCES BETWEEN A WEB PAGE,WEB SERVER, WEB BROWSER, SEARCH ENGINE
+- WEB PAGE; A web page is a document displayed in a browser
+- WEB SERVER; A web server is a computer program or a piece of hardware that delivers web pages to users on request.
+- WEB BROWSER; A software application that allows users to access and view websites on the internet
+- SEARCH ENGINE; A search engine is a website that helps users find other websites and web pages. 
+
+WHAT IS A CLIENT?
+A client is a computer or software application that requests and receives services or information from another computer or server.
+
+WHAT IS A SERVER?
+A server is a computer or system that provides resources, data, or services to other computers, known as clients, over a network.
+
+WHAT IS AN IP ADDRESS?
+An IP address is a unique numerical label assigned to each device connected to a computer network, like the internet. 
+
+WHAT IS A DNS SERVER?
+DNS (Domain Name System) servers are like the internet's phonebook, translating human-readable website names (like google.com) into the numerical IP addresses that computers use to locate and connect to those websites
+
+
+ 
